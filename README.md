@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zander-prinsloo
-- 👀 I’m interested in Microeconometrics and Statistical Learning.
-- 🌱 I’m currently learning more about R
+- 👀 I'm an economist working on technical development of the World Bank's Poverty & Inequality Platform (PIP) and researching measurement issues.
+- 🌱 I’m interested in econometrics, development, labour, and statistical learning.
 - 📫 How to reach me: prinsloo.zander@gmail.com
 
 <!---
